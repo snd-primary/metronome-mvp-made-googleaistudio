@@ -1,0 +1,5 @@
+{
+  "name": "Neon Metronome",
+  "description": "A high-fidelity, dark-themed visual metronome with rhythm subdivisions, tap tempo, and precise audio timing.",
+  "requestFramePermissions": []
+}
